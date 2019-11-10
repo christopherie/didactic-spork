@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ValidateDocument">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="doc" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateDocumentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidateDocumentResult" type="tns:DeclarationDocument" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="DeclarationDocument">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="DocumentStructure" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DeclarationCommand" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SiteId" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="UploadDocument">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="data" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="UploadDocumentResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="UploadDocumentResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ValidateDocumentSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateDocument" />
+  </wsdl:message>
+  <wsdl:message name="ValidateDocumentSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateDocumentResponse" />
+  </wsdl:message>
+  <wsdl:message name="UploadDocumentSoapIn">
+    <wsdl:part name="parameters" element="tns:UploadDocument" />
+  </wsdl:message>
+  <wsdl:message name="UploadDocumentSoapOut">
+    <wsdl:part name="parameters" element="tns:UploadDocumentResponse" />
+  </wsdl:message>
+  <wsdl:portType name="DocumentValidationWebServiceSoap">
+    <wsdl:operation name="ValidateDocument">
+      <wsdl:input message="tns:ValidateDocumentSoapIn" />
+      <wsdl:output message="tns:ValidateDocumentSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="UploadDocument">
+      <wsdl:input message="tns:UploadDocumentSoapIn" />
+      <wsdl:output message="tns:UploadDocumentSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DocumentValidationWebServiceSoap" type="tns:DocumentValidationWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidateDocument">
+      <soap:operation soapAction="http://tempuri.org/ValidateDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadDocument">
+      <soap:operation soapAction="http://tempuri.org/UploadDocument" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="DocumentValidationWebServiceSoap12" type="tns:DocumentValidationWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidateDocument">
+      <soap12:operation soapAction="http://tempuri.org/ValidateDocument" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UploadDocument">
+      <soap12:operation soapAction="http://tempuri.org/UploadDocument" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DocumentValidationWebService">
+    <wsdl:port name="DocumentValidationWebServiceSoap" binding="tns:DocumentValidationWebServiceSoap">
+      <soap:address location="http://localhost:60042/DocumentValidationWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="DocumentValidationWebServiceSoap12" binding="tns:DocumentValidationWebServiceSoap12">
+      <soap12:address location="http://localhost:60042/DocumentValidationWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

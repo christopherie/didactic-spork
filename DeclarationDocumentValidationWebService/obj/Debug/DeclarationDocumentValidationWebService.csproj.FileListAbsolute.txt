@@ -1,0 +1,109 @@
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\DeclarationDocumentValidationWebService.dll.config
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\DeclarationDocumentValidationWebService.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\DeclarationDocumentValidationWebService.pdb
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\csc.exe
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\csc.exe.config
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\csc.rsp
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\csi.exe
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\csi.exe.config
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\csi.rsp
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.AppContext.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Console.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Claims.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\vbc.exe
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\vbc.exe.config
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\vbc.rsp
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\obj\Debug\DeclarationDocumentValidationWebService.csproj.CopyComplete
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\obj\Debug\DeclarationDocumentValidationWebService.dll
+C:\Users\Christopher\source\repos\DeclarationDocumentValidationWebService\obj\Debug\DeclarationDocumentValidationWebService.pdb
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\DeclarationDocumentValidationWebService.dll.config
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\DeclarationDocumentValidationWebService.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\DeclarationDocumentValidationWebService.pdb
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\csc.exe
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\csc.exe.config
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\csc.rsp
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\csi.exe
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\csi.exe.config
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\csi.rsp
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.AppContext.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Console.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.Compression.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Claims.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.ValueTuple.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\vbc.exe
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\vbc.exe.config
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\vbc.rsp
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\obj\Debug\DeclarationDocumentValidationWebService.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\obj\Debug\DeclarationDocumentValidationWebService.csproj.CopyComplete
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\obj\Debug\DeclarationDocumentValidationWebService.dll
+C:\Users\Christopher\Desktop\Exercise 3\DeclarationDocumentValidationWebService\obj\Debug\DeclarationDocumentValidationWebService.pdb

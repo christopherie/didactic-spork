@@ -1,0 +1,17 @@
+C:\Users\Christopher\source\repos\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+C:\Users\Christopher\source\repos\WebServiceClient\bin\Debug\WebServiceClient.exe
+C:\Users\Christopher\source\repos\WebServiceClient\bin\Debug\WebServiceClient.pdb
+C:\Users\Christopher\source\repos\WebServiceClient\obj\Debug\WebServiceClient.Properties.Resources.resources
+C:\Users\Christopher\source\repos\WebServiceClient\obj\Debug\WebServiceClient.csproj.GenerateResource.cache
+C:\Users\Christopher\source\repos\WebServiceClient\obj\Debug\WebServiceClient.exe
+C:\Users\Christopher\source\repos\WebServiceClient\obj\Debug\WebServiceClient.pdb
+C:\Users\Christopher\source\repos\WebServiceClient\obj\Debug\WebServiceClient.Form1.resources
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\bin\Debug\WebServiceClient.exe
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\bin\Debug\WebServiceClient.pdb
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\obj\Debug\WebServiceClient.csprojAssemblyReference.cache
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\obj\Debug\WebServiceClient.Form1.resources
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\obj\Debug\WebServiceClient.Properties.Resources.resources
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\obj\Debug\WebServiceClient.csproj.GenerateResource.cache
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\obj\Debug\WebServiceClient.exe
+C:\Users\Christopher\Desktop\Exercise 3\WebServiceClient\obj\Debug\WebServiceClient.pdb
